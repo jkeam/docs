@@ -197,7 +197,7 @@ familiar compute abstractions that Kubernetes makes available (e.g. Deployment,
 Job, DaemonSet, StatefulSet), or Knative abstractions (e.g. Service,
 Configuration).
 
-See the [SinkBinding](samples/container-source) example for more details.
+See the [SinkBinding](samples/sinkbinding) example for more details.
 
 ### Eventing Contrib Sources
 
